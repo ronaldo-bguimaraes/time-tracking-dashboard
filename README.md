@@ -28,7 +28,7 @@ Users must be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/ronaldobg/time-tracking-dashboard](https://github.com/ronaldobg/time-tracking-dashboard)
+- Solution URL: [https://github.com/ronaldobg/time-tracking-dashboard/](https://github.com/ronaldobg/time-tracking-dashboard/)
 - Active site URL: [https://ronaldobg.github.io/time-tracking-dashboard/](https://ronaldobg.github.io/time-tracking-dashboard/)
 
 ## My process
