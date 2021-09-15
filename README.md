@@ -1,39 +1,48 @@
 # Frontend Mentor - Time tracking dashboard solution
 
-Esta é uma solução para o [desafio do Time tracking dashboard no Frontend Mentor] (https://www.front//or.io/challenges/time-tracking-dashboard-UIQ7167Jw). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação ao construir projetos realistas.
+This is a solution to the [Time tracking dashboard challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/time-tracking-dashboard-UIQ7167Jw). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Visão geral
+## Table of contents
 
-### O desafio
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
 
-Os usuários devem ser capazes de:
+## Overview
 
-- Visualize o layout ideal para o site, dependendo do tamanho da tela do dispositivo
-- Ver estados de foco para todos os elementos interativos na página
-- Alternar entre a visualização de estatísticas Diárias, Semanais e Mensais
+### The challenge
 
-### Captura de tela
+Users must be able to:
+
+- View the ideal layout for the website, depending on your device's screen size
+- View focus states for all interactive elements on the page
+- Switch between Daily, Weekly and Monthly stats view
+
+### Screenshot
 
 ![screenshot](./images/screenshot.png)
 
 ### Links
 
-- URL da solução: [Adicionar URL da solução aqui] (https://your-solution-url.com)
-- URL do site ativo: [Adicionar URL do site ativo aqui] (https://your-live-site-url.com)
+- Solution URL: [Add Solution URL Here] (https://github.com/ronaldobg/time-tracking-dashboard)
+- Active site URL: [Add active site URL here] (https://ronaldobg.github.io/time-tracking-dashboard/)
 
-## Meu processo
+## My process
 
-### Construído com
+### Built with
 
-- HTML5
-- CSS
+- Semantic HTML5 markup
+- CSS custom properties
 - Flexbox
 - CSS Grid
+- Mobile-first workflow
 
-** Nota: Estes são apenas exemplos. Exclua esta nota e substitua a lista acima com suas próprias escolhas **
+## Author
 
-## Autor
-
-- Site - [Ronaldo Borges Guimarães] (https://ronaldobg.github.io/ronaldobg/)
+- Website - [Ronaldo Borges Guimarães] (https://ronaldobg.github.io/ronaldobg/)
 - Frontend Mentor - [@ronaldobg] (https://www.frontendmentor.io/profile/ronaldobg)
 - Twitter - [@ronaldobgui] (https://twitter.com/ronaldobgui)
