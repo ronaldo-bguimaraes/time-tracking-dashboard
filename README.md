@@ -24,7 +24,7 @@ Users must be able to:
 
 ### Screenshot
 
-![screenshot](./images/screenshot.png)
+![screenshot](./screenshot.png)
 
 ### Links
 
