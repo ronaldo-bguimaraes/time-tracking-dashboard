@@ -1,80 +1,154 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
-
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
-  
+  <link rel="stylesheet" type="text/css" href="./styles/index.css">
+  <script type="module" src="./src/index.js" defer></script>
   <title>Frontend Mentor | Time tracking dashboard</title>
-
-  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
-  <style>
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
-  </style>
 </head>
+
 <body>
-
-  Report for
-  Jeremy Robson
-
-  Daily
-  Weekly
-  Monthly
-
-  Work
-  5hrs <!-- daily -->
-  Previous - 7hrs <!-- daily -->
-  32hrs <!-- weekly -->
-  Previous - 36hrs <!-- weekly -->
-  103hrs <!-- monthly -->
-  Previous - 128hrs <!-- monthly -->
-
-  Play
-  1hr <!-- daily -->
-  Previous - 2hrs <!-- daily -->
-  10hrs <!-- weekly -->
-  Previous - 8hrs <!-- weekly -->
-  23hrs <!-- monthly -->
-  Previous - 29hrs <!-- monthly -->
-
-  Study
-  0hrs <!-- daily -->
-  Previous - 1hr <!-- daily -->
-  4hrs <!-- weekly -->
-  Previous - 7hrs <!-- weekly -->
-  13hrs <!-- monthly -->
-  Previous - 19hrs <!-- monthly -->
-
-  Exercise
-  1hr <!-- daily -->
-  Previous - 1hr <!-- daily -->
-  4hrs <!-- weekly -->
-  Previous - 5hrs <!-- weekly -->
-  11hrs <!-- monthly -->
-  Previous - 18hrs <!-- monthly -->
-
-  Social
-  1hr <!-- daily -->
-  Previous - 3hrs <!-- daily -->
-  5hrs <!-- weekly -->
-  Previous - 10hrs <!-- weekly -->
-  21hrs <!-- monthly -->
-  Previous - 23hrs <!-- monthly -->
-
-  Self Care
-  0hrs <!-- daily -->
-  Previous - 1hr <!-- daily -->
-  2hrs <!-- weekly -->
-  Previous - 2hrs <!-- weekly -->
-  7hrs <!-- monthly -->
-  Previous - 11hrs <!-- monthly -->
-
-  
-  <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="#">Your Name Here</a>.
+  <div class="root">
+    <article class="grid">
+      <article class="card profile">
+        <div class="container">
+          <main>
+            <img class="image" src="./images/image-jeremy.png" alt="Jeremy Robson photo smiling." title="Jeremy Robson">
+            <h5 class="label">Report for</h5>
+            <h3 class="title">Jeremy Robson</h3>
+          </main>
+        </div>
+        <nav>
+          <ul class="list">
+            <li>
+              <h4 class="item">
+                <a class="link" href="#daily">Daily</a>
+              </h4>
+            </li>
+            <li>
+              <h4 class="item">
+                <a class="link" href="#weekly">Weekly</a>
+              </h4>
+            </li>
+            <li>
+              <h4 class="item">
+                <a class="link" href="#monthly">Monthly</a>
+              </h4>
+            </li>
+          </ul>
+        </nav>
+      </article>
+      <article class="card state work">
+        <div class="container">
+          <header>
+            <h4 class="title"></h4>
+            <span class="ellipsis">
+              <img src="./images/icon-ellipsis.svg">
+            </span>
+          </header>
+          <main>
+            <h2 class="current"></h2>
+          </main>
+          <footer>
+            <h5 class="previous"></h5>
+          </footer>
+        </div>
+      </article>
+      <article class="card state play">
+        <div class="container">
+          <header>
+            <h4 class="title"></h4>
+            <span class="ellipsis">
+              <img src="./images/icon-ellipsis.svg">
+            </span>
+          </header>
+          <main>
+            <h2 class="current"></h2>
+          </main>
+          <footer>
+            <h5 class="previous"></h5>
+          </footer>
+        </div>
+      </article>
+      <article class="card state study">
+        <div class="container">
+          <header>
+            <h4 class="title"></h4>
+            <span class="ellipsis">
+              <img src="./images/icon-ellipsis.svg">
+            </span>
+          </header>
+          <main>
+            <h2 class="current"></h2>
+          </main>
+          <footer>
+            <h5 class="previous"></h5>
+          </footer>
+        </div>
+      </article>
+      <article class="card state exercise">
+        <div class="container">
+          <header>
+            <h4 class="title"></h4>
+            <span class="ellipsis">
+              <img src="./images/icon-ellipsis.svg">
+            </span>
+          </header>
+          <main>
+            <h2 class="current"></h2>
+          </main>
+          <footer>
+            <h5 class="previous"></h5>
+          </footer>
+        </div>
+      </article>
+      <article class="card state social">
+        <div class="container">
+          <header>
+            <h4 class="title"></h4>
+            <span class="ellipsis">
+              <img src="./images/icon-ellipsis.svg">
+            </span>
+          </header>
+          <main>
+            <h2 class="current"></h2>
+          </main>
+          <footer>
+            <h5 class="previous"></h5>
+          </footer>
+        </div>
+      </article>
+      <article class="card state self-care">
+        <div class="container">
+          <header>
+            <h4 class="title"></h4>
+            <span class="ellipsis">
+              <img src="./images/icon-ellipsis.svg">
+            </span>
+          </header>
+          <main>
+            <h2 class="current"></h2>
+          </main>
+          <footer>
+            <h5 class="previous"></h5>
+          </footer>
+        </div>
+      </article>
+      <footer>
+        <div class="attribution">
+          <span>
+            Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+          </span>
+          <span>
+            Coded by <a href="https://github.com/ronaldobg">Ronaldo Borges Guimarães</a>.
+          </span>
+        </div>
+      </footer>
+    </article>
   </div>
 </body>
+
 </html>

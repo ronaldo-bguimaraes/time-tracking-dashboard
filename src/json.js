@@ -1,0 +1,4 @@
+const response = await fetch("./data.json");
+const json = await response.json();
+export { json };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoianNvbi5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbImpzb24udHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBd0JBLE1BQU0sUUFBUSxHQUFHLE1BQU0sS0FBSyxDQUFDLGFBQWEsQ0FBQyxDQUFDO0FBRTVDLE1BQU0sSUFBSSxHQUFHLE1BQU0sUUFBUSxDQUFDLElBQUksRUFBWSxDQUFDO0FBRTdDLE9BQU8sRUFBRSxJQUFJLEVBQUUsQ0FBQyJ9

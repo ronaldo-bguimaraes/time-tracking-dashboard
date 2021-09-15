@@ -1,0 +1,10 @@
+{
+  "name": "time-tracking-dashboard",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ronaldo Guimarães <ronaldo.bguimaraes@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc && sass ./styles/index.scss ./styles/index.css --embed-source-map --style=compressed"
+  }
+}
