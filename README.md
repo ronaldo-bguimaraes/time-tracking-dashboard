@@ -16,11 +16,11 @@ This is a solution to the [Time tracking dashboard challenge on Frontend Mentor]
 
 ### The challenge
 
-Users must be able to:
+Users should be able to:
 
-- View the ideal layout for the website, depending on your device's screen size
-- View focus states for all interactive elements on the page
-- Switch between Daily, Weekly and Monthly stats view
+- View the optimal layout for the site depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Switch between viewing Daily, Weekly, and Monthly stats
 
 ### Screenshot
 
