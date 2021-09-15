@@ -44,5 +44,5 @@ Users must be able to:
 ## Author
 
 - Website - [Ronaldo Borges Guimarães](https://ronaldobg.github.io/ronaldobg/)
-- Frontend Mentor - [@ronaldobg](https://www.frontendmentor.io/profile/ronaldobg)
-- Twitter - [@ronaldobgui](https://twitter.com/ronaldobgui)
+- Frontend Mentor - [@ronaldobg](https://www.frontendmentor.io/profile/ronaldobg/)
+- Twitter - [@ronaldobgui](https://twitter.com/ronaldobgui/)
