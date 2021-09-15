@@ -28,8 +28,8 @@ Users must be able to:
 
 ### Links
 
-- Solution URL: [Add Solution URL Here] (https://github.com/ronaldobg/time-tracking-dashboard)
-- Active site URL: [Add active site URL here] (https://ronaldobg.github.io/time-tracking-dashboard/)
+- Solution URL: [https://github.com/ronaldobg/time-tracking-dashboard](https://github.com/ronaldobg/time-tracking-dashboard)
+- Active site URL: [https://ronaldobg.github.io/time-tracking-dashboard/](https://ronaldobg.github.io/time-tracking-dashboard/)
 
 ## My process
 
