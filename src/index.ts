@@ -9,7 +9,7 @@ const linkAll = document.querySelectorAll(".item .link");
 
 const titleAll = document.querySelectorAll("header .title");
 
-const currentAll = document.querySelectorAll("main .current");
+const currentAll = document.querySelectorAll(".current");
 
 const previousList = document.querySelectorAll("footer .previous");
 
