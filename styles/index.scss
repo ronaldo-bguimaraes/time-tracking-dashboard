@@ -88,7 +88,7 @@ html {
                   font-weight: 400;
 
                   .link {
-                    font-size: 1.0rem;
+                    font-size: 1rem;
                     text-decoration: none;
                     color: hsl(236, 100%, 87%);
                     transition: color 0.1s;
@@ -216,18 +216,14 @@ html {
           }
         }
 
-        > footer {
+        .attribution {
+          font-size: 0.75rem;
+          text-align: center;
           grid-column: 1 / span 4;
+          color: hsl(236, 100%, 87%);
 
-          .attribution {
-            font-size: 0.75rem;
-            text-align: center;
-            grid-column: 1 / span 3;
-            color: hsl(236, 100%, 87%);
-
-            a {
-              color: hsl(236, 100%, 97%);
-            }
+          a {
+            color: hsl(236, 100%, 97%);
           }
         }
       }
@@ -298,14 +294,11 @@ html {
             }
           }
 
-          > footer {
+          .attribution {
             grid-column: 1 / span 1;
-
-            .attribution {
-              display: flex;
-              flex-direction: column;
-              row-gap: 0.5rem;
-            }
+            display: flex;
+            flex-direction: column;
+            row-gap: 0.5rem;
           }
         }
       }
@@ -327,7 +320,7 @@ html {
             }
           }
 
-          > footer {
+          .attribution {
             grid-column: 1 / span 2;
           }
         }
@@ -350,7 +343,7 @@ html {
             }
           }
 
-          > footer {
+          .attribution {
             grid-column: 1 / span 3;
           }
         }
