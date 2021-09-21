@@ -59,6 +59,7 @@ html {
               }
 
               .label {
+                font-size: 1rem;
                 margin-top: 1.5rem;
                 font-weight: 400;
                 color: hsl(236, 100%, 87%);
@@ -245,9 +246,11 @@ html {
                 .image {
                   grid-row: 1 / span 2;
                 }
+
                 .label {
                   margin-top: 0;
                 }
+
                 .title {
                   font-size: 1.5rem;
                 }
@@ -278,11 +281,9 @@ html {
                   grid-column: 1 / span 2;
                 }
 
-                main {
-                  .current {
-                    font-size: 2rem;
-                    margin-top: 0.5rem;
-                  }
+                .current {
+                  font-size: 2rem;
+                  margin-top: 0.5rem;
                 }
 
                 footer {
