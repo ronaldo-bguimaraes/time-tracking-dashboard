@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/ronaldobg/time-tracking-dashboard/](https://github.com/ronaldobg/time-tracking-dashboard/)
-- Active site URL: [https://ronaldobg.github.io/time-tracking-dashboard/](https://ronaldobg.github.io/time-tracking-dashboard/)
+- Solution URL: [https://github.com/ronaldobgui/time-tracking-dashboard/](https://github.com/ronaldobgui/time-tracking-dashboard/)
+- Active site URL: [https://ronaldobgui.github.io/time-tracking-dashboard/](https://ronaldobgui.github.io/time-tracking-dashboard/)
 
 ## My process
 
@@ -44,6 +44,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Ronaldo Borges Guimarães](https://ronaldobg.github.io/ronaldobg/)
-- Frontend Mentor - [@ronaldobg](https://www.frontendmentor.io/profile/ronaldobg/)
+- Website - [Ronaldo Borges Guimarães](https://ronaldobgui.github.io/ronaldobgui/)
+- Frontend Mentor - [@ronaldobg](https://www.frontendmentor.io/profile/ronaldobgui/)
 - Twitter - [@ronaldobgui](https://twitter.com/ronaldobgui/)
