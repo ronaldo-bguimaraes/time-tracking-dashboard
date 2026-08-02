@@ -46,4 +46,4 @@ Users should be able to:
 
 - Website - [Ronaldo Borges Guimarães](https://ronaldo-bguimaraes.github.io/ronaldo-bguimaraes/)
 - Frontend Mentor - [@ronaldo-bguimaraes](https://www.frontendmentor.io/profile/ronaldo-bguimaraes/)
-- Twitter - [@ronaldo-bguimaraes](https://twitter.com/ronaldo-bguimaraes/)
+
